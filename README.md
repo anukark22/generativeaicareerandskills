@@ -1,1 +1,1 @@
-# Generative AI for Career and Skills
+# HOPE: AI for Career and Skills
